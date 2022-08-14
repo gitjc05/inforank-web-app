@@ -1,0 +1,1 @@
+web gunicorn inforank.wsgi:application --log-file -

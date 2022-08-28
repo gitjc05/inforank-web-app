@@ -81,11 +81,11 @@ WSGI_APPLICATION = "inforank.wsgi.application"
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
-        "NAME": "railway",
-        "USER": "postgres",
-        "PASSWORD": "Kbz0Ldct4bgoHRsNdF7S",
-        "HOST": "containers-us-west-73.railway.app",
-        "PORT": "5921",
+        "NAME": "dfnvs770f64afl",
+        "USER": "lksqtxxjbijkan",
+        "PASSWORD": "3eaf93133843bc40d48368bdf195ffc1c80476990eeb9563cbac68a2d317bad6",
+        "HOST": "ec2-3-208-79-113.compute-1.amazonaws.com",
+        "PORT": "5432",
     }
 }
 
